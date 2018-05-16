@@ -10,7 +10,7 @@ The california_vineyards.csv file includes the addresses of [vineyards in Califo
 | Vineyards (California)            | 438     |
 
 ## Weather & elevation data
-If you want to generate your own data using the Google Maps API & WeatherBit API, you'll need to create a file called **config.py** which includes the following variables:
+If you want to generate your own data using the [Google Maps API](https://developers.google.com/api-client-library/python/start/get_started) & [WeatherBit API](https://www.weatherbit.io/api/weather-history-daily-bulk), you'll need to create a file called **config.py** which includes the following variables:
 
 ```
 #Google maps API key
