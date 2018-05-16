@@ -9,7 +9,7 @@ The california_vineyards.csv file includes the addresses of [vineyards in Califo
 | Zillow land (California)          | 461     |
 | Vineyards (California)            | 438     |
 
-## Weather & elevation data
+## Collecting weather & elevation data
 If you want to generate your own data using the [Google Maps API](https://developers.google.com/api-client-library/python/start/get_started) & [WeatherBit API](https://www.weatherbit.io/api/weather-history-daily-bulk), you'll need to create a file called **config.py** which includes the following variables:
 
 ```
