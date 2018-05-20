@@ -20,4 +20,6 @@ gmap_key = ''
 wbit_key = ''
 ```
 
+The collected weather & elevation data is exported as [a csv (for viewing)](/california_vineyards_elevation_weather.csv) and as a [pkl file](/california_vineyards_elevation_weather.pkl) for importing into the [Keras / TensorFlow model](/build_vineyard_scout.ipynb) and [exploratory data analysis](/address_to_land_data.ipynb) scripts.
 
+## Exploratory data analysis (EDA)
