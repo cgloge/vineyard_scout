@@ -42,4 +42,4 @@ The Keras [build_vineyard_scout](/build_vineyard_scout.ipynb) imports the [pkl f
 
 Hyperparameters and variables can be easily tweaked. Each setting is stored in a pandas dataframe for tracking with parameters have the strongest impact on the model. Regularization and dropout helped the model perform with such a small sample size.
 
-After testing a few times, I typically saw accuracy scores of 80-90% for predicting if a location was a vineyard or not on the blind test set.
+After testing a few times, I typically saw **accuracy scores of 80-90%** for predicting if a location was a vineyard or not on the blind test set.
